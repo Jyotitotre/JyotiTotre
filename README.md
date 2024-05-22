@@ -1,4 +1,5 @@
 ## Hi there 👋
+Author Name -Jyoti Totre
 
 <!--
 **Jyotitotre/JyotiTotre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
